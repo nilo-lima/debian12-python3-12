@@ -43,8 +43,8 @@ Este arquivo define a configuração da máquina virtual. Ele especifica:
 1. **Clone o repositório:**
 
    ```bash
-   git clone <url-do-repositorio>
-   cd <nome-do-repositorio>
+   git clone <https://github.com/nilo-lima/debian12-python3-12>
+   cd <debian12-python3-12>
    ```
 
 2. **Inicie a máquina virtual:**
