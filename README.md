@@ -43,8 +43,8 @@ Este arquivo define a configuração da máquina virtual. Ele especifica:
 1. **Clone o repositório:**
 
    ```bash
-   git clone <https://github.com/nilo-lima/debian12-python3-12>
-   cd <debian12-python3-12>
+   git clone https://github.com/nilo-lima/debian12-python3-12
+   cd debian12-python3-12
    ```
 
 2. **Inicie a máquina virtual:**
@@ -68,11 +68,6 @@ Este arquivo define a configuração da máquina virtual. Ele especifica:
 
 5. **Execute as instruções abaixo para instalar o `pipx`, o `poetry` e o `pyenv`:**
 
-## Para acessar a VM pelo Vagrant
-
-   ```bash
-   vagrant up
-   ```
 
 ## Instalar o Pipx
 
